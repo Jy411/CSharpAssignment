@@ -1,0 +1,11 @@
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/bin/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.deps.json
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/bin/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.runtimeconfig.json
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/bin/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.runtimeconfig.dev.json
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/bin/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.dll
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/bin/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.pdb
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/obj/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.csprojAssemblyReference.cache
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/obj/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.csproj.CoreCompileInputs.cache
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/obj/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.AssemblyInfoInputs.cache
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/obj/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.AssemblyInfo.cs
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/obj/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.dll
+/Users/jy/RiderProjects/Asgn1_0328895_Jinyung/Asgn1_0328895_Jinyung/obj/Debug/netcoreapp2.1/Asgn1_0328895_Jinyung.pdb
